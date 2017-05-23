@@ -1,0 +1,2 @@
+# faq
+Example FAQ template
